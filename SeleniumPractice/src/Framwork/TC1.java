@@ -12,7 +12,7 @@ public class TC1 {
 		System.setProperty("webdriver.chrome.driver", "C:/Users/Kumarshobhitsoni/workspace/SeleniumPractice/chromedriver.exe");
 WebDriver driver=new ChromeDriver();
 driver.get("https://www.google.com");
-System.out.println("Hi");
+System.out.println("Hiii");
 
 	}
 
